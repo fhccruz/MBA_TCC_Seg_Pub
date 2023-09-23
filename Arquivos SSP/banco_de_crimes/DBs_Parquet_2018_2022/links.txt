@@ -3,7 +3,7 @@ Dados Públicos do Estado de São Paulo
 
 Detalhes:
 >>> Bases de dados sobre "furto de veículos" e "roubo de veículos" não são baixáveis na totalidade (apenas mensal)
->>> Os arquivos não foram colocados no GitHub devido à limitação de tamanho (25MB)
+>>> Os arquivos raw não foram colocados no GitHub devido à limitação de tamanho (25MB)
 
 - Taxa de Homicídio: Resultados gerais do estado por macro regiões
 - Estatística: redireciona para um texto
