@@ -1,0 +1,18 @@
+Site SSP: http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx
+Dados Públicos do Estado de São Paulo
+
+Detalhes:
+- Bases de dados sobre "furto de veículos","roubo de veículos", "furto de celulares" e "roubo de celulares" não são baixáveis na totalidade (apenas mensal)
+
+- Taxa de Homicídio: Resultados gerais do estado por macro regiões
+- Estatística: redireciona para um texto
+- Homicidio doloso:				Baixado para o Estado de SP (2017-2022)
+- Feminicídio: 					Baixado para o Estado de SP (2015-2022)
+- Latrocínio:					Baixado para o Estado de SP (2018-2022)
+- Lesao Corporal Seguida de Morte: 		Baixado para o Estado de SP (2016-2022) (LCSM)
+- Morte Decorrente de Intervenção Policial:	Baixado para o Estado de SP (2013-2022) (MDIP - base mais pesada)
+- Morte Suspeita:				Baixado para o Estado de SP (2013-2022)
+- Furto de veículos: 				Baixado para o Estado de SP (2018-2022) - Mês a mês
+- Roubo de veículos: 				Baixado para o Estado de SP (2018-2022) - Mês a mês
+
+>>> O período utilizado para todas as bases de dados foi de jan2018-dez2022
