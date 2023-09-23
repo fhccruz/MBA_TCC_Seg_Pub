@@ -1,0 +1,5 @@
+ilume-limpa:     http://dados.prefeitura.sp.gov.br/pt_BR/dataset/iluminacao-publica
+
+Iluminação Publica SHP:
+Portal Geosampa
+https://www.prefeitura.sp.gov.br/cidade/secretarias/licenciamento/noticias/index.php?p=315719

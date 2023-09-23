@@ -1,0 +1,504 @@
+1º	 São Paulo	12.396.372
+2º	 Guarulhos	1.404.694
+3º	 Campinas	1.223.237
+4º	 São Bernardo do Campo	849.874
+5º	 São José dos Campos	737.310
+6º	 Santo André	723.889
+7º	 Ribeirão Preto	720.116
+8º	 Osasco	701.428
+9º	 Sorocaba	695.328
+10º	 Mauá	481.725
+11º	 São José do Rio Preto	469.173
+12º	 Mogi das Cruzes	455.587
+13º	 Santos	433.991
+14º	 Diadema	429.550
+15º	 Jundiaí	426.935
+16º	 Piracicaba	410.275
+17º	 Carapicuíba	405.375
+18º	 Bauru	381.706
+19º	 Itaquaquecetuba	379.082
+20º	 São Vicente	370.839
+21º	 Franca	358.539
+22º	 Praia Grande	336.454
+23º	 Guarujá	324.977
+24º	 Taubaté	320.820
+25º	 Limeira	310.783
+26º	 Suzano	303.397
+27º	 Taboão da Serra	297.528
+28º	 Sumaré	289.875
+29º	 Barueri	279.704
+30º	 Embu das Artes	279.264
+31º	 Indaiatuba	260.690
+32º	 Cotia	257.882
+33º	 São Carlos	256.915
+34º	 Americana	244.370
+35º	 Itapevi	244.131
+36º	 Marília	242.249
+37º	 Araraquara	240.542
+38º	 Hortolândia	237.570
+39º	 Jacareí	237.119
+40º	 Presidente Prudente	231.953
+41º	 Rio Claro	209.548
+42º	 Araçatuba	199.210
+43º	 Ferraz de Vasconcelos	198.661
+44º	 Santa Bárbara d'Oeste	195.278
+45º	 Itapecerica da Serra	179.574
+46º	 Francisco Morato	179.372
+47º	 Itu	177.150
+48º	 Bragança Paulista	172.346
+49º	 Pindamonhangaba	171.885
+50º	 Itapetininga	167.106
+51º	 São Caetano do Sul	162.763
+52º	 Franco da Rocha	158.438
+53º	 Mogi Guaçu	154.146
+54º	 Jaú	153.463
+55º	 Botucatu	149.718
+56º	 Atibaia	145.378
+57º	 Santana de Parnaíba	145.073
+58º	 Araras	136.739
+59º	 Valinhos	133.169
+60º	 Cubatão	132.521
+61º	 Sertãozinho	128.432
+62º	 Jandira	127.734
+63º	 Birigui	126.094
+64º	 Ribeirão Pires	125.238
+65º	 Caraguatatuba	125.194
+66º	 Votorantim	124.468
+67º	 Várzea Paulista	124.269
+68º	 Itatiba	124.254
+69º	 Tatuí	124.134
+70º	 Barretos	123.546
+71º	 Guaratinguetá	123.192
+72º	 Catanduva	123.114
+73º	 Salto	120.779
+74º	 Poá	119.221
+75º	 Ourinhos	115.139
+76º	 Paulínia	114.508
+77º	 Assis	105.768
+78º	 Leme	105.273
+79º	 Itanhaém	104.351
+80º	 Caieiras	104.044
+81º	 Mairiporã	103.645
+82º	 Votuporanga	96.106
+83º	 Caçapava	95.752
+84º	 Itapeva	95.241
+85º	 Mogi Mirim	94.098
+86º	 São Roque	93.076
+87º	 Ubatuba	92.819
+88º	 Arujá	92.453
+89º	 São João da Boa Vista	92.315
+90º	 Avaré	91.792
+91º	 São Sebastião	91.637
+92º	 Lorena	89.532
+93º	 Campo Limpo Paulista	86.407
+94º	 Matão	84.069
+95º	 Cruzeiro	82.895
+96º	 Vinhedo	81.516
+97º	 Ibiúna	80.062
+98º	 Cajamar	79.034
+99º	 Lins	78.978
+100º	 Jaboticabal	78.029
+101º	 Bebedouro	77.612
+102º	 Pirassununga	77.330
+103º	 Itapira	75.683
+104º	 Cosmópolis	74.662
+105º	 Amparo	73.145
+106º	 Embu-Guaçu	70.402
+107º	 Peruíbe	69.697
+108º	 Fernandópolis	69.680
+109º	 Lençóis Paulista	69.533
+110º	 Mococa	69.072
+111º	 Bertioga	66.154
+112º	 Tupã	65.615
+113º	 Itupeva	64.330
+114º	 Penápolis	64.098
+115º	 Batatais	63.438
+116º	 Boituva	63.310
+117º	 Nova Odessa	61.716
+118º	 Monte Mor	61.707
+119º	 Ibitinga	61.150
+120º	 Mirassol	60.768
+121º	 Jaguariúna	59.921
+122º	 Mongaguá	58.567
+123º	 Santa Isabel	58.529
+124º	 Taquaritinga	57.547
+125º	 Andradina	57.245
+126º	 Capivari	56.973
+127º	 Porto Ferreira	56.848
+128º	 Registro	56.463
+129º	 Artur Nogueira	56.247
+130º	 Piedade	55.731
+131º	 Olímpia	55.477
+132º	 São José do Rio Pardo	55.298
+133º	 Vargem Grande Paulista	54.315
+134º	 Porto Feliz	53.698
+135º	 São Joaquim da Barra	52.737
+136º	 Campos do Jordão	52.713
+137º	 Rio Grande da Serra	52.009
+138º	 Pontal	51.717
+139º	 Cabreúva	51.130
+140º	 Monte Alto	51.039
+141º	Louveira Louveira	51.007
+142º	 Itararé	50.778
+143º	 Cerquilho	50.631
+144º	 Jales	49.291
+145º	 Pedreira	48.992
+146º	 Tremembé	48.228
+147º	 Santa Cruz do Rio Pardo	48.207
+148º	 Mairinque	47.723
+149º	 Pederneiras	47.523
+150º	 Dracena	47.287
+151º	 Capão Bonito	47.098
+152º	 Salto de Pirapora	46.285
+153º	 Paraguaçu Paulista	46.180
+154º	 Serrana	46.166
+155º	 Jardinópolis	45.544
+156º	 Orlândia	44.682
+157º	 Espírito Santo do Pinhal	44.607
+158º	 Presidente Epitácio	44.572
+159º	 Garça	44.429
+160º	 Itápolis	43.536
+161º	 Vargem Grande do Sul	43.368
+162º	 Tietê	42.946
+163º	 Ituverava	42.259
+164º	Novo Horizonte Flag.jpg Novo Horizonte	41.765
+165º	 Socorro	41.690
+166º	 Américo Brasiliense	41.545
+167º	 São Manuel	41.287
+168º	 Guaíra	41.283
+169º	 Promissão	41.211
+170º	 Guariba	40.857
+171º	 Pitangueiras	40.430
+172º	 Presidente Venceslau	39.648
+173º	 Iperó	38.771
+174º	 José Bonifácio	37.707
+175º	 Agudos	37.582
+176º	 Aguaí	36.981
+177º	 São Pedro	36.298
+178º	 Rio das Pedras	36.233
+179º	 Aparecida	36.211
+180º	 Ilhabela	36.194
+181º	 Barra Bonita	36.125
+182º	 Cravinhos	35.858
+183º	 Bariri	35.844
+184º	 Ibaté	35.830
+185º	 Araçoiaba da Serra	35.389
+186º	 Adamantina	35.153
+187º	 Santa Cruz das Palmeiras	35.102
+188º	 Descalvado	34.097
+189º	 Cachoeira Paulista	33.827
+190º	 Morro Agudo	33.598
+191º	 Barrinha	33.537
+192º	 Biritiba Mirim	33.265
+193º	 Guararapes	33.257
+194º	 Osvaldo Cruz	33.118
+195º	 São Miguel Arcanjo	33.071
+196º	 Santa Fé do Sul	32.796
+197º	 Juquitiba	31.844
+198º	 Cândido Mota	31.410
+199º	 Jarinu	31.173
+200º	 Iguape	31.117
+201º	 Igarapava	30.791
+202º	 Casa Branca	30.655
+203º	 Guararema	30.465
+204º	 Piraju	29.930
+205º	 Mirandópolis	29.844
+206º	 Rancharia	29.743
+207º	 Serra Negra	29.669
+208º	 Pilar do Sul	29.612
+209º	 Laranjal Paulista	29.047
+210º	 Conchal	28.491
+211º	 Cajati	28.441
+212º	 Pirapozinho	27.974
+213º	 Santa Gertrudes	27.850
+214º	 Dois Córregos	27.704
+215º	 Santa Rita do Passa Quatro	27.641
+216º	 Itaí	27.632
+217º	 Piracaia	27.617
+218º	 Valparaíso	27.154
+219º	 Santa Rosa de Viterbo	26.960
+220º	 Ilha Solteira	26.886
+221º	 Martinópolis	26.791
+222º	 Cajuru	26.613
+223º	 Bom Jesus dos Perdões	26.506
+224º	 Tanabi	26.231
+225º	 Pirajuí	25.939
+226º	 Angatuba	25.724
+227º	 Pereira Barreto	25.685
+228º	 Monte Aprazível	25.651
+229º	 Brodowski	25.605
+230º	 Potim	25.603
+231º	 Cordeirópolis	25.116
+232º	 Álvares Machado	25.078
+233º	 Iracemápolis	24.982
+234º	 Brotas	24.862
+235º	 Igaraçu do Tietê	24.821
+236º	 Apiaí	24.081
+237º	 Santo Antônio de Posse	23.742
+238º	 Teodoro Sampaio	23.395
+239º	 Araçariguama	23.343
+240º	 Taquarituba	23.292
+241º	 Tambaú	23.255
+242º	 Miguelópolis	22.480
+243º	 Pompeia	22.326
+244º	 Palmital	22.322
+245º	 Pradópolis	22.239
+246º	 Guapiaçu	22.087
+247º	 Lucélia	22.022
+248º	 Nova Granada	21.871
+249º	 Engenheiro Coelho	21.712
+250º	 Castilho	21.521
+251º	 Guará	21.394
+252º	 Cunha	21.373
+253º	 Capela do Alto	21.257
+254º	 Itatinga	21.139
+255º	 Junqueirópolis	20.978
+256º	 Bastos	20.952
+257º	 Santo Anastácio	20.855
+258º	 Paranapanema	20.588
+259º	 Regente Feijó	20.523
+260º	 Cerqueira César	20.391
+261º	 Buri	20.050
+262º	 Pariquera-Açu	19.797
+263º	 Miracatu	19.511
+264º	 Pirapora do Bom Jesus	19.453
+265º	 Guareí	19.244
+266º	 Viradouro	19.133
+267º	 Caconde	19.031
+268º	 Monte Azul Paulista	18.928
+269º	 Águas de Lindóia	18.908
+270º	 Alumínio	18.903
+271º	 Nazaré Paulista	18.866
+272º	 Juquiá	18.627
+273º	 Itirapina	18.610
+274º	 Colina	18.601
+275º	 Cesário Lange	18.595
+276º	 Mirante do Paranapanema	18.415
+277º	Paraibuna Paraibuna	18.302
+278º	 Conchas	18.138
+279º	 Elias Fausto	18.095
+280º	 Bady Bassitt	18.013
+281º	 Cafelândia	17.917
+282º	 Jacupiranga	17.911
+283º	 Severínia	17.820
+284º	 Itariri	17.754
+285º	 Potirendaba	17.668
+286º	 Charqueada	17.539
+287º	 Buritama	17.414
+288º	 Itaberá	17.405
+289º	 Pindorama	17.378
+290º	 Salesópolis	17.363
+291º	 Macatuba	17.263
+292º	 Guapiara	16.896
+293º	 Pedregulho	16.876
+294º	 Ipuã	16.794
+295º	 Tabatinga	16.787
+296º	 Borborema	16.278
+297º	 Altinópolis	16.221
+298º	 São Lourenço da Serra	16.127
+299º	 Fartura	16.102
+300º	 Ribeirão Branco	15.984
+301º	 Panorama	15.944
+302º	 Rosana	15.929
+303º	 Tupi Paulista	15.670
+304º	 Santa Adélia	15.639
+305º	 Luiz Antônio	15.628
+306º	 Holambra	15.605
+307º	 Eldorado	15.592
+308º	 Pinhalzinho	15.564
+309º	 São Simão	15.446
+310º	 Tarumã	15.361
+311º	 Itajobi	15.331
+312º	 Auriflama	15.316
+313º	 Serra Azul	15.292
+314º	 Itaporanga	15.197
+315º	 Ipaussu	15.165
+316º	 Boa Esperança do Sul	15.111
+317º	 Patrocínio Paulista	14.941
+318º	 Flórida Paulista	14.936
+319º	 Santa Branca	14.925
+320º	 Taguaí	14.415
+321º	 Pacaembu	14.326
+322º	 Quatá	14.309
+323º	 Itapuí	14.297
+324º	 Maracaí	14.069
+325º	 Avanhandava	14.063
+326º	 Urupês	13.965
+327º	 Morungaba	13.936
+328º	 Piratininga	13.890
+329º	 Queluz	13.788
+330º	 Valentim Gentil	13.732
+331º	 Palmares Paulista	13.691
+332º	 Piquete	13.495
+333º	 Joanópolis	13.453
+334º	 Ribeirão Bonito	13.376
+335º	 Palestina	13.285
+336º	 Mineiros do Tietê	13.023
+337º	 Presidente Bernardes	12.943
+338º	 Tapiratiba	12.940
+339º	 Riolândia	12.856
+340º	 Sete Barras	12.731
+341º	 Ibirá	12.639
+342º	 Lavínia	12.581
+343º	 Bocaina	12.571
+344º	 Tabapuã	12.561
+345º	 Cananéia	12.542
+346º	 Duartina	12.421
+347º	 Chavantes	12.418
+348º	 Guaiçara	12.416
+349º	 Cardoso	12.371
+350º	 São Sebastião da Grama	12.137
+351º	 Bofete	12.107
+352º	 Sales Oliveira	12.103
+353º	 Iacanga	12.002
+354º	 Nhandeara	11.575
+355º	 Ilha Comprida	11.552
+356º	 Pirangi	11.524
+357º	 Nova Europa	11.519
+358º	 Estiva Gerbi	11.507
+359º	 Pedro de Toledo	11.507
+360º	 Getulina	11.485
+361º	 Guaraci	11.382
+362º	 Areiópolis	11.186
+363º	 Bernardino de Campos	11.168
+364º	 Bananal	11.039
+365º	 Divinolândia	11.027
+366º	 Parapuã	10.934
+367º	 São Bento do Sapucaí	10.907
+368º	 Roseira	10.888
+369º	 General Salgado	10.855
+370º	 Vargem	10.842
+371º	 Rincão	10.824
+372º	 Vera Cruz	10.804
+373º	 Ouroeste	10.712
+374º	 São Luiz do Paraitinga	10.693
+375º	 Cajobi	10.649
+376º	 Sarapuí	10.493
+377º	 Porangaba	10.205
+378º	 Uchoa	10.191
+379º	 Dumont	10.174
+380º	 Torrinha	10.100
+381º	 Reginópolis	10.047
+382º	 Manduri	9.972
+383º	 Nova Campina	9.962
+384º	 Rinópolis	9.940
+385º	 Ariranha	9.851
+386º	 Iaras	9.786
+387º	 Herculândia	9.649
+388º	 Igaratá	9.631
+389º	 Terra Roxa	9.502
+390º	 Cedral	9.452
+391º	 Salto Grande	9.396
+392º	 Euclides da Cunha Paulista	9.280
+393º	 Bálsamo	9.209
+394º	 Palmeira d'Oeste	9.173
+395º	 Vista Alegre do Alto	9.163
+396º	 Rafard	9.126
+397º	 Urânia	9.125
+398º	 Dobrada	9.088
+399º	 São José da Bela Vista	8.991
+400º	 Paulo de Faria	8.973
+401º	 Neves Paulista	8.917
+402º	 Clementina	8.894
+403º	 Santa Lúcia	8.889
+404º	 Dourado	8.883
+405º	 Pereiras	8.875
+406º	 Cristais Paulista	8.803
+407º	 Ouro Verde	8.676
+408º	 Arealva	8.665
+409º	 Santo Antônio do Aracanguá	8.541
+410º	 Saltinho	8.498
+411º	 Estrela d'Oeste	8.420
+412º	 Icém	8.363
+413º	 Irapuru	8.356
+414º	 Águas da Prata	8.262
+415º	 Guaraçaí	8.258
+416º	 Iepê	8.228
+417º	 Lindóia	8.201
+418º	 Bilac	8.197
+419º	 Monte Alegre do Sul	8.181
+420º	 Macaubal	8.174
+421º	 Irapuã	8.101
+422º	 Ibirarema	7.926
+423º	 Catiguá	7.905
+424º	 Itobi	7.862
+425º	 Ipeúna	7.824
+426º	 Restinga	7.762
+427º	 Guatapará	7.760
+428º	 Sud Mennucci	7.738
+429º	 Tapiraí	7.725
+430º	 São Pedro do Turvo	7.724
+431º	 Ribeirão Grande	7.686
+432º	 Tarabai	7.609
+433º	 Barra do Turvo	7.606
+434º	 Paulicéia	7.540
+435º	 Barbosa	7.532
+436º	 Nuporanga	7.522
+437º	 Lavrinhas	7.361
+438º	 Jaci	7.322
+439º	 Orindiúva	7.318
+440º	 Cosmorama	7.289
+441º	 Nova Aliança	7.161
+442º	 Tuiuti	7.058
+443º	 Santo Antônio da Alegria	7.024
+444º	 Jaborandi	6.963
+445º	 Anhembi	6.911
+446º	 Santo Antônio do Pinhal	6.843
+447º	 Jambeiro	6.828
+448º	 Quintana	6.736
+449º	 Guarantã	6.685
+450º	 Natividade da Serra	6.624
+451º	 Itirapuã	6.587
+452º	 Pardinho	6.579
+453º	 Oriente	6.569
+454º	 Paraíso	6.536
+455º	 Ubarana	6.488
+456º	 Sales	6.481
+457º	 Gália	6.419
+458º	 Silveiras	6.375
+459º	 Arandu	6.373
+460º	 Taciba	6.371
+461º	 Taiaçu	6.346
+462º	 Santa Maria da Serra	6.298
+463º	 Iacri	6.269
+464º	 Alambari	6.231
+465º	 Colômbia	6.223
+466º	 Coroados	6.197
+467º	 Poloni	6.166
+468º	 Águas de Santa Bárbara	6.142
+469º	 Balbinos	6.127
+470º	 Pedra Bela	6.127
+471º	 Piacatu	6.093
+472º	 Campina do Monte Alegre	6.088
+473º	 Novais	6.057
+474º	 Marabá Paulista	6.039
+475º	 Santa Albertina	6.036
+476º	 Echaporã	6.026
+477º	 Caiuá	6.017
+478º	 Américo de Campos	5.993
+479º	 Taquarivaí	5.968
+480º	 Santo Antônio do Jardim	5.926
+481º	 Luiziânia	5.918
+482º	 Três Fronteiras	5.856
+483º	 Guaimbê	5.806
+484º	 Fernando Prestes	5.805
+485º	 Braúna	5.795
+486º	 Barra do Chapéu	5.794
+487º	 Aramina	5.689
+488º	 Mendonça	5.638
+489º	 Sabino	5.638
+490º	 Santa Ernestina	5.577
+491º	 Taiúva	5.562
+492º	 Ipiguá	5.557
+493º	 Avaí	5.467
+494º	 Nipoã	5.381
+495º	 Salmourão	5.372
+496º	 Pratânia	5.371
+497º	 Planalto	5.370
+498º	 Canitar	5.365
+499º	 Riversul	5.364
+500º	 Guzolândia	5.346
+501º	 Álvaro de Carvalho	5.320
+502º	 Canas	5.268
+503º	 Analândia	5.115
+504º	 Campos Novos Paulista	5.028
